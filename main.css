@@ -1,0 +1,26 @@
+body{
+    border-style: double;
+    background-image:url('../CSSCheckup/assets/galaxyasset.jpg');
+}
+
+.test2{
+    border-style: dotted;
+    width: 25%;
+    height: 50%;
+}
+
+.class1{
+    background: lavender;
+}
+
+#test1{
+    height: 40px;
+    background: blue;
+        border: 10px solid pink;
+        margin: 5px 5px 5px 5px;
+}
+
+p{
+    font-family: fantasy; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: large;
+}
